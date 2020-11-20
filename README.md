@@ -12,3 +12,6 @@ Sample website with plenty of files for demos.
 ## Deployment
 This Deployment
 It can be done on different server
+
+##CopyRight Section 
+This is copy right notice to readme
