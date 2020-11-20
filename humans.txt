@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+Mahaveer A XYZ@XYZ.com
     <name> -- <role> -- <twitter>
 
 # THANKS
