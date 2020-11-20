@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Adding a line for rebase
 
 ## Introduction
 Sample website with plenty of files for demos.
@@ -14,5 +15,5 @@ Sample website with plenty of files for demos.
 This Deployment
 It can be done on different server
 
-##CopyRight Section 
+## CopyRight Section 
 This is copy right notice to readme
