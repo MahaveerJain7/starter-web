@@ -6,7 +6,8 @@ Mahaveer A XYZ@XYZ.com
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+  Happy learning
+  
     <name>
 
 # TECHNOLOGY COLOPHON
