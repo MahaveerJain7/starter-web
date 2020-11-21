@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-Mahaveer A XYZ@XYZ.com
+Mahaveer A XYZ@XYZ.com @git-Leanring
     <name> -- <role> -- <twitter>
 
 # THANKS
