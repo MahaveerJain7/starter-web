@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Adding a line for rebase
 , from my feature branch 2
+Adding a line for rebase
 ## Introduction
 Sample website with plenty of files for demos.
 This Introduction is for showing how Git and GitHub work
