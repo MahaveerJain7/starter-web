@@ -16,4 +16,4 @@ This Deployment
 It can be done on different server
 
 ## CopyRight Section 
-This is copy right notice to readme
+This is copy right notice to readme. ALl rights reserved
